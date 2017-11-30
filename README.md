@@ -12,13 +12,13 @@ string number= '1234567879855431';
 luhn(number);
 ```
 
-**java**
+**Java**
 ```java
 String number= '1234567879855431';
 luhn(number);
 ```
 
-**javascript**
+**Javascript**
 ```js
 var number= '1234567879855431';
 luhn(number);
